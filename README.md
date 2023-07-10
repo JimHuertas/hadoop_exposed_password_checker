@@ -1,6 +1,6 @@
 # 2. SEGURIDAD
 ## DATASET
-Para el dataset vamos a usar: [PwnedPasswordsDownloader]{https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader} para eso necesitamos del sistema operativo Ubuntu (22.04 LTS de preferencia) o el subsistema WSL de Windows 
+Para el dataset vamos a usar: [PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) para eso necesitamos del sistema operativo Ubuntu (22.04 LTS de preferencia) o el subsistema WSL de Windows 
 requerimientos:
 
 ```console
@@ -29,7 +29,7 @@ este pesa aproximadamente 36Gb, y va a guardarlo todo en un solo.txt
 RECUERDA: Si en caso no te funcionará el comando haveibeenpwned-downloader trata de ejecutarlo usando: haveibeenpwned-downloader.exe
 
 ## EJECUCIÓN
-PREVIO: Configura todo el sistema para que puedas correr el entorno de [ooxwv-docker_hadoop]{https://github.com/ibm-developer-skills-network/ooxwv-docker_hadoop} para poder seguir con la ejecución.
+PREVIO: Configura todo el sistema para que puedas correr el entorno de [ooxwv-docker_hadoop](https://github.com/ibm-developer-skills-network/ooxwv-docker_hadoop) para poder seguir con la ejecución.
 
 Para poder configurar y ejecutar el programa en el entorno tenemos como requisitos dentro del entorno de ejecucion nodename:
 - El dataset dentro 
